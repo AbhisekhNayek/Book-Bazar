@@ -1,0 +1,72 @@
+[
+    {
+        "name": "The Great Gatsby",
+        "price": 10.99,
+        "category": "Paid",
+        "image": "https://images.app.goo.gl/TgXcxQTYuJ88Emic7https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "A classic novel by F. Scott Fitzgerald"
+    },
+    {
+        "name": "1984",
+        "price": 0.00,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "A novel by George Orwell"
+    },
+    {
+        "name": "To Kill a Mockingbird",
+        "price": 12.99,
+        "category": "Paid",
+        "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "A novel by Harper Lee"
+    },
+    {
+        "name": "History of Humankind",
+        "price": 0.00,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "A book by Yuval Noah Harari"
+    },
+    {
+        "name": "The Catcher in the Rye",
+        "price": 9.99,
+        "category": "Paid",
+        "image": "hhttps://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "A novel by J.D. Salinger"
+    },
+    {
+        "name": "Pride and Prejudice",
+        "price": 0.00,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "A classic novel by Jane Austen"
+    },
+    {
+        "name": "The Hobbit",
+        "price": 15.99,
+        "category": "Paid",
+        "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "A fantasy novel by J.R.R. Tolkien"
+    },
+    {
+        "name": "Fahrenheit 451",
+        "price": 0.00,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "A dystopian novel by Ray Bradbury"
+    },
+    {
+        "name": "Moby-Dick",
+        "price": 11.99,
+        "category": "Paid",
+        "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "A novel by Herman Melville"
+    },
+    {
+        "name": "War and Peace",
+        "price": 0.00,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "A novel by Leo Tolstoy"
+    }
+]
